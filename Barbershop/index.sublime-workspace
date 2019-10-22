@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"bb",
+				"border-bottom\tproperty"
+			],
+			[
+				"mb",
+				"margin-bottom\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-collapse\tproperty"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"Chr",
+				"ChromeOptions"
+			],
+			[
+				"Adobe",
+				"Adobe Premiere Pro.exe"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"liver",
+				"LiveReload: Self test"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Миша/Desktop/Barbershop/index.html",
+		"/C/Users/Миша/Desktop/web-starter-kit-master/web-starter-kit-master/tasks/image-min.js",
+		"/C/Users/Миша/Desktop/js/index.html",
+		"/C/Users/Миша/Desktop/js/style.js",
+		"/D/0скачать/[www.slifki.info] 95+ готовых премиум шаблонов/одно/wild-zoo-one-page-html-template/HTML/assets/js/masonary/AnimOnScroll.js",
+		"/C/Users/Миша/Desktop/web-starter-kit-master/web-starter-kit-master/gulpfile.js",
+		"/C/Users/Миша/Desktop/Новая папка/main.css",
+		"/C/Users/Миша/Desktop/js/jquery.js",
+		"/C/Users/Миша/Desktop/js/js/style.js",
+		"/C/Users/Миша/Desktop/speech-ai (1)/Speech_AI-master/speech_ai.py",
+		"/C/Users/Миша/Desktop/gesture.py",
+		"/D/0скачать/[www.slifki.info] 95+ готовых премиум шаблонов/одно/wild-zoo-one-page-html-template/HTML/index.html",
+		"/D/0скачать/[www.slifki.info] 95+ готовых премиум шаблонов/одно/wild-zoo-one-page-html-template/HTML/assets/css/style.css",
+		"/D/Adobe Photoshop Lightroom CC 2015.7 (6.7)/LR 6.6  RU_9.6_ Win_nktch/ReadMe!.txt",
+		"/C/Users/Миша/Desktop/Barbershop/main.css",
+		"/C/Users/Миша/Desktop/Barbershop/price.html",
+		"/D/Lib/site-packages/gtts_token/gtts_token.py",
+		"/D/The Evil Within 2/steamclient64.dll",
+		"/C/Users/Миша/Desktop/Barbershop/normalize.css",
+		"/C/Users/Миша/Desktop/dj_4/start_html-master/start_html-master/_html/index.html",
+		"/C/Users/Миша/Desktop/dj_4/bootstrap-elements/assets/libs/bootstrap/css/bootstrap.min.css",
+		"/C/Users/Миша/Desktop/dj_4/start_html-master/start_html-master/_html/_header.css",
+		"/C/Users/Миша/Desktop/dj_4/start_html-master/start_html-master/_html/_main.css",
+		"/C/Users/Миша/Desktop/dj_4/start_html-master/start_html-master/_html/_fonts.css",
+		"/C/Users/Миша/Desktop/dj_4/bootstrap-elements/bootstrap_skin.css",
+		"/C/Users/Миша/Desktop/dj_4/bootstrap-elements/assets/libs/bootstrap/css/bootstrap.css",
+		"/C/Users/Миша/Desktop/dj_4/start_html-master/start_html-master/_html/libs/bootstrap/css/bootstrap.min.css",
+		"/C/Users/Миша/Desktop/dj_4/start_html-master/start_html-master/_html/libs/bootstrap/css/bootstrap.css",
+		"/C/Users/Миша/Desktop/dj_4/bootstrap-elements/index.html",
+		"/C/Users/Миша/Desktop/dj_4/start_html-master/start_html-master/_html/mail.php",
+		"/C/Users/Миша/Desktop/Новая папка/index.html",
+		"/C/Users/Миша/Desktop/Новая папка/_css/main.css",
+		"/C/Users/Миша/Desktop/Новая папка/index.htm",
+		"/D/скачать/Lynda.com - Applied Responsive Design (RUS)/MY/Chapter_01/01_05/index.htm",
+		"/C/Users/Миша/Desktop/gulp/Sass/css/style.css",
+		"/C/Users/Миша/Desktop/gulp/Sass/gulpfile.js",
+		"/C/Users/Миша/Desktop/speech_ai.py",
+		"/C/Users/Миша/Desktop/speech_ai.py — ярлык.lnk",
+		"/C/Users/Миша/Desktop/dj_4/bootstrap-elements/assets/css/main.css",
+		"/C/Users/Миша/Desktop/js/css/main.css",
+		"/C/Users/Миша/Desktop/Bootstrap/index.html",
+		"/C/Users/Миша/Desktop/Bootstrap/css/main.css",
+		"/C/Users/Миша/Desktop/Bootstrap/bootstrap.min.css",
+		"/C/Users/Миша/Desktop/tinyone/layout/css/main.css",
+		"/C/Users/Миша/Desktop/tinyone/layout/index.html",
+		"/C/Users/Миша/Desktop/Sass/sass/style.scss",
+		"/C/Users/Миша/Desktop/Sass/css/style.css",
+		"/C/Users/Миша/Desktop/Sass/package.json",
+		"/C/Users/Миша/Desktop/Sass/gulpfile.js",
+		"/C/Users/Миша/Desktop/myproject/gulpfile.js",
+		"/C/Users/Миша/Desktop/Sass/css/style.scss",
+		"/C/Users/Миша/Desktop/myproject/package.json",
+		"/C/Users/Миша/Desktop/myproject/app/css/main.css",
+		"/C/Users/Миша/Desktop/myproject/app/sass/main.sass",
+		"/C/Users/Миша/Desktop/myproject/app/index.html",
+		"/C/Users/Миша/Desktop/myproject/dist/js/libs.min.js",
+		"/C/Users/Миша/Desktop/myproject/app/js/libs.min.js",
+		"/C/Users/Миша/Desktop/myproject/app/js/common.js",
+		"/C/Users/Миша/Desktop/myproject/.bowerrc",
+		"/C/Users/Миша/Desktop/myproject/app/sass/_part.sass",
+		"/C/Users/Миша/Desktop/myproject/package-lock.json",
+		"/C/Users/Миша/Desktop/верстка 3.2/index.html",
+		"/C/Users/Миша/Desktop/верстка 3.2/sass/style.sass",
+		"/C/Users/Миша/Desktop/aware-master/aware-master/index.html",
+		"/C/Users/Миша/Desktop/верстка 3.2/css/icomoon.css",
+		"/C/Users/Миша/Desktop/верстка 3.2/css/style.css",
+		"/C/Users/Миша/Desktop/First-Project-master/First-Project-master/index.html",
+		"/C/Users/Миша/Desktop/верстка 3/css/main.css",
+		"/C/Users/Миша/Desktop/верстка 3/index.html",
+		"/C/Users/Миша/Desktop/bootstrap исходник + fontawsome (1)/index.html",
+		"/C/Users/Миша/Desktop/speech-ai (1)/Speech_AI-master/last.py",
+		"/C/Users/Миша/Desktop/hi.py",
+		"/C/Users/Миша/Desktop/верстки/верстка 2/index.html",
+		"/C/Users/Миша/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Миша/Desktop/верстка 2/css/main.css",
+		"/C/Users/Миша/Desktop/верстка 2/index.html",
+		"/D/SonicResources/ClickMe.htm",
+		"/C/Users/Миша/Desktop/верстка/css/main.css",
+		"/C/Users/Миша/Desktop/верстка/index.html",
+		"/C/Users/Миша/Desktop/html-css-layout-files/Верстка/index.html",
+		"/C/Users/Миша/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Миша/Desktop/avtor.py",
+		"/C/Users/Миша/Desktop/speech-ai (1)/avtor.py",
+		"/C/Users/Миша/Desktop/speech-ai (1)/network.py",
+		"/D/Lib/json/decoder.py",
+		"/D/Lib/json/encoder.py",
+		"/D/Lib/json/scanner.py",
+		"/D/Lib/json/__init__.py",
+		"/D/Lib/site-packages/speech_recognition/__init__.py",
+		"/D/Lib/site-packages/selenium/common/exceptions.py",
+		"/D/Lib/site-packages/selenium/webdriver/remote/errorhandler.py",
+		"/D/Lib/site-packages/speech_recognition/__main__.py",
+		"/C/Users/Миша/Desktop/new.py",
+		"/D/Lib/site-packages/selenium/webdriver/chrome/options.py",
+		"/D/Lib/site-packages/selenium/webdriver/chrome/webdriver.py",
+		"/D/Lib/site-packages/selenium/webdriver/chrome/service.py",
+		"/D/Lib/site-packages/selenium/webdriver/chrome/remote_connection.py",
+		"/D/Lib/site-packages/selenium/common/__pycache__/exceptions.cpython-36.pyc",
+		"/D/Lib/site-packages/selenium/common/__init__.py",
+		"/D/Lib/site-packages/selenium/webdriver/__init__.py",
+		"/C/Users/Миша/Desktop/Windows-Sound-Manager-master (2)/Windows-Sound-Manager-master/main.py",
+		"/C/Users/Миша/Desktop/speech-ai (1)/Speech_AI-master/sound.py",
+		"/C/Users/Миша/Desktop/speech-ai (1)/Speech_AI-master/keyboard.py",
+		"/C/Users/Миша/Desktop/Windows-Sound-Manager-master (2)/Windows-Sound-Manager-master/keyboard.py",
+		"/C/Users/Миша/Desktop/Windows-Sound-Manager-master (2)/Windows-Sound-Manager-master/sound.py",
+		"/C/Users/Миша/Desktop/speech-ai (1)/Speech_AI-master/__pycache__/keyboard.cpython-36.pyc",
+		"/C/Users/Миша/Desktop/pyalsaaudio-0.5/pyalsaaudio-0.5/test.py",
+		"/C/Users/Миша/Desktop/pyalsaaudio-0.5/pyalsaaudio-0.5/playbacktest.py",
+		"/C/Users/Миша/Desktop/pyalsaaudio-0.5/pyalsaaudio-0.5/doc/conf.py",
+		"/C/Users/Миша/Desktop/pyalsaaudio-0.5/pyalsaaudio-0.5/mixertest.py",
+		"/D/Lib/distutils/msvc9compiler.py",
+		"/C/Users/Миша/Desktop/pyalsaaudio-0.8.4/pyalsaaudio-0.8.4/mixertest.py",
+		"/D/Scripts/keyboard.py",
+		"/D/Scripts/main.py",
+		"/D/Scripts/sound.py",
+		"/C/Users/Миша/Desktop/Windows-Sound-Manager-master/Windows-Sound-Manager-master/sound.py",
+		"/C/Users/Миша/Desktop/Windows-Sound-Manager-master/Windows-Sound-Manager-master/main.py",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/tests/Requests.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/tests/bootstrap.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/library/Requests.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/library/Requests/Auth.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/examples/get.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/examples/post.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/examples/timeout.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/examples/session.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/examples/proxy.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/examples/multiple.php",
+		"/C/Users/Миша/Desktop/Requests-1.7.0/Requests-1.7.0/examples/cookie_jar.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

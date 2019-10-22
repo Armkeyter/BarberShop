@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Барбершоп <<Бородинский>></title>
+	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="normalize.css">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&amp;subset=cyrillic" rel="stylesheet">
+</head>
+<body>
+	<header class="main-header">
+		<div class="container clearfix">
+			<nav class="main-navigator">
+				<ul>
+					<li><a href="#">Информация</a></li>
+					<li><a href="#">Новости</a></li>
+					<li><a href="price.html">Прайс-лист</a></li>
+					<li><a href="#">Магазин</a></li>
+					<li><a href="#">Контакты</a></li>
+				</ul>
+			</nav>
+			<div class="user-block">
+				<a href="/login" class="login">Вход</a>
+			</div>
+		</div>
+	</header>
+
+	<main class="container">
+		<div class="index-logo">
+			<img src="img/logo.png" width="368" height="204" alt="Барбершоп <<Бородинский>>">
+		</div>
+		<section class="features clearfix">
+			<div class="features-item">
+				<b class="features-name">Быстро</b>
+				<p>Мыделаем свою работу быстро! Два часа пролетят
+				   незаметно и вы -счастливый обладатель стильной
+				 	 стрижки-минутки!</p>
+
+			</div>
+			<div class="features-item">
+				<b class="features-name">Круто</b>
+				<p>Забудьте , как вы стриглись раньше. Мы сделаем из вас
+					 звезду футбола или кино! Во всяком случае внешне.</p>
+				 	 
+			</div>
+			<div class="features-item">
+				<b class="features-name">Дорого</b>
+				<p>Наши мастера -профессионалы своего дела и не могут
+				стоить дешево.К тому же, разве цена не дает
+				 определенный статус?</p>
+				 	 
+			</div>
+		</section>
+
+		<div class="index-content clearfix">
+			<div class="index-content-left">
+				<h2 class="index-content-title">Новости</h2>
+				<ul class="news-prewiew">
+					<li>
+						<p>Нам наконец завезли Ягермайстер! Теперь вы можете
+						пропустить стаканчик во время стрижки</p>
+						<time datetime="2016-01-11">11 января</time>
+					</li>
+					<li>
+						<p>Lorem ipsum dolor sit amet, consectetur a
+						dipisicing elit. Consequuntur libero dolorem su
+						scipit. Temporibus animi id asper.</p>
+						<time datetime="2016-01-18">18 января</time>
+					</li>
+				</ul>
+				<a href="#" class="btn">Все новости</a>
+			</div>
+
+			<div class="index-content-right">
+				<h2 class="index-content-title">Фотогалерея</h2>
+				<div class="gallery">
+					<figure class="gallery-content">
+						<img src="img/photo-1.png" width="286" height="164" alt="">
+					</figure>
+					<button  type="button" class="gallery-prev btn" disabled>Назад</button>
+					<button  type="button" class="gallery-next btn">Вперед</button>	
+				</div>
+			</div>
+		</div>
+
+		<div class="index-content clearfix">
+			<div class="index-content-left">
+				<h2 class="index-content-title">Контактная информация</h2>
+				<p>
+					Барбершоп Бородинский<br>
+					Адрес Улица Пушкина Дом калатушкина<br>
+					Телефон +8 (800) 555-35-35
+				</p>
+				<p>
+					Время работы<br>
+					пн - пт с 10:00 да 22:00<br>
+					пн - пт с 10:00 да 22:00		
+				</p>
+				<a href="/contracts" class="btn js-open-map">Как проехать</a>
+				<a href="#" class="btn">Обратная связь</a>
+			</div>
+			<div class="index-content-right">
+				<h2 class="index-content-title">Записаться</h2>
+				<p>
+					
+				</p>
+				<form action="https://www.google.ru/" class="form" method="post">
+					<input type="text" name="date" value=""placeholder="Дата">
+					<input type="text" name="time" value=""placeholder="Время">
+					<input type="text" name="name" value=""placeholder="Ваше имя">
+					<input type="tel"  name="phone" value=""placeholder="Телефон">
+					<button class="btn" type="submit">Отправить</button>
+				</form>
+			</div>
+		</div>
+	</main>
+	<footer class="main-footer">
+		<div class="container clearfix">
+			<section class="footer-contacts">
+				Барбершоп Бородинский <br>
+				Адрес улица Пушкина дом Калатушкина<br>
+				<a href="#">Как нас найти</a><br>
+				Телефон +8 (800) 555-35-35
+			</section>
+
+			<section class="footer-social">
+				<p>Давайте дружить!</p>
+				<a href="#" class="social-btn vk">Вконтакте</a>
+				<a href="#" class="social-btn fb">Фейсбук</a>
+				<a href="#" class="social-btn inst">Инстаграм</a>
+			</section>
+
+			<section class="footer-copyright">
+				<p>Разработка:</p>
+				<a class="btn" href="#">Musiyenko Academy</a>
+			</section>
+		</div>
+	</footer>
+	<div class="modal-content">
+		<button class="modal-content-close"type="button" title="Закрыть">Закрыть</button>
+		<h2 class="modal-content-title">Личный кабинет</h2>
+		<p>Введите свой логин и пароль</p>
+		<form action="https://google.ru" class="login-form" method="post">
+			<input type="text" name="login" placeholder="Логин" class="icon-user">
+			<input type="password" name="password" placeholder="Пароль" class="icon-password">
+			<label class="login-checkbox">
+				<input type="checkbox" name="remember">
+				<span class="checkbox-indicator"></span>
+				Запомните меня
+			</label>
+			<a href="#" class="restore">Я забыл пароль</a>
+			<button class="btn" type="submit">Войти</button>
+		</form>
+	</div>
+	<div class="map">
+		<button class="modal-content-close" type="button" title="Закрыть">Закрыть</button>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d5488.029371135053!2d151.23530087398436!3d-33.90495055480319!2m2!1f204.00249941966047!2f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x6b12b1f42c88a145%3A0xf017d68f9f2a0b0!2z0KDQvtC50LDQuyDQoNGN0L3QtNCy0LjQuiDQoNC10LnRgdC60L7RgNGB!5e1!3m2!1sru!2sua!4v1560801744394!5m2!1sru!2sua" width="766" height="561" frameborder="0" style="border:0" allowfullscreen></iframe>
+	</div>
+	<div class="modal-overlay"></div>
+	<script src="style.js"></script>
+</body>
+</html>
